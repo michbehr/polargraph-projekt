@@ -1,4 +1,4 @@
-PROJEKT-ZIEL – ABLAUFPLAN (neu gespeichert)
+PROJEKT-ZIEL – ABLAUFPLAN 
 Befehl „Projekt-Ziel Ablauf“ ruft diesen Plan ab.
 Phase 1: Vektor-only (GH-nativ, einfach)
 1.	Preferences-Cluster bauen (Papier/Canvas/Offsets/Feeds/Limits).

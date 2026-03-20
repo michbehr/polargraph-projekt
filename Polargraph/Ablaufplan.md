@@ -1,3 +1,6 @@
+
+https://raw.githubusercontent.com/michbehr/polargraph-projekt/refs/heads/main/Polargraph/Ablaufplan.md
+
 PROJEKT-ZIEL – ABLAUFPLAN 
 Befehl „Projekt-Ziel Ablauf“ ruft diesen Plan ab.
 Phase 1: Vektor-only (GH-nativ, einfach)

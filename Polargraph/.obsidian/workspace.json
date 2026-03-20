@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates-Übersicht.md",
+                "file": "Polargraph Motor kalibrieren.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Templates-Übersicht"
+              "title": "Polargraph Motor kalibrieren"
             }
           }
         ],
@@ -65,23 +65,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "043f158c9390b5a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polargraph-Projekt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polargraph-Projekt"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,24 +226,25 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "e191b9931df23538",
+  "active": "a7b943855c08c675",
   "lastOpenFiles": [
-    "Polargraph Motor kalibrieren.md",
+    "ZZ_Projekt-Ziel.md",
+    "Polargraph-Projekt.md",
     "Templates-Übersicht.md",
-    "Templates/Quick-Add.md",
     "Wochen-Status-2026-W12.md",
+    "Polargraph Motor kalibrieren.md",
+    "Templates/Quick-Add.md",
     "Templates/Projekt-Liste.md",
     "2026-03-20 Daily.md",
     "Templates/Tagesplan.md",
     "2026-03-20-Tagesplan.md",
     "Templates/Projekt-Ziel-Template.md",
-    "ZZ_Projekt-Ziel.md",
     "Templates",
     "Hardware.md",
-    "Polargraph-Projekt.md",
     "00-Projekt-Start.md",
     "Welcome.md"
   ]

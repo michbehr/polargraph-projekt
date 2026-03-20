@@ -1,2 +1,0 @@
-- Datum{{date}}
-- Status: Setup fertig

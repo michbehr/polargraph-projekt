@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "Ablaufplan"
             }
+          },
+          {
+            "id": "2c39bff3ad565fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "c6c172a4a11b08ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testeee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "testeee"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -199,21 +227,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware.md",
+                "file": "testeee.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hardware"
+              "title": "Outline of testeee"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +256,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2d1472ae68de05be",
+  "active": "c6c172a4a11b08ed",
   "lastOpenFiles": [
-    "Projekt-Ziel.md",
+    "test.md",
+    "testeee.md",
     "Ablaufplan.md",
+    "Projekt-Ziel.md",
     "00-Projekt-Start.md",
     "2026-03-20 Daily.md",
     "Hardware.md",

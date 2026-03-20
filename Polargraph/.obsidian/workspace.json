@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Projekt-Ziel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Projekt-Ziel"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "Projekt-Ziel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of Projekt-Ziel"
             }
           }
         ],
@@ -244,8 +244,8 @@
   },
   "active": "2c39bff3ad565fa8",
   "lastOpenFiles": [
-    "Ablaufplan.md",
     "Test.md",
+    "Ablaufplan.md",
     "Projekt-Ziel.md",
     "testeee.md",
     "test.md",

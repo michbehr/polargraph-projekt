@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Projekt-Ziel-Template.md",
+                "file": "Templates/Tagesplan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projekt-Ziel-Template"
+              "title": "Tagesplan"
             }
           }
         ],
@@ -247,8 +247,9 @@
   },
   "active": "e191b9931df23538",
   "lastOpenFiles": [
-    "ZZ_Projekt-Ziel.md",
     "Templates/Projekt-Ziel-Template.md",
+    "Templates/Tagesplan.md",
+    "ZZ_Projekt-Ziel.md",
     "Templates",
     "Hardware.md",
     "Polargraph-Projekt.md",

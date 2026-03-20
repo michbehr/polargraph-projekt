@@ -241,11 +241,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e191b9931df23538",
+  "active": "a7b943855c08c675",
   "lastOpenFiles": [
+    "Templates",
     "Hardware.md",
     "ZZ_Projekt-Ziel.md",
     "Polargraph-Projekt.md",

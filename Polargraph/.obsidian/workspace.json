@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Templates-Übersicht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Templates-Übersicht"
             }
           }
         ],
@@ -247,7 +247,7 @@
   "active": "e191b9931df23538",
   "lastOpenFiles": [
     "Polargraph Motor kalibrieren.md",
-    "Untitled.md",
+    "Templates-Übersicht.md",
     "Templates/Quick-Add.md",
     "Wochen-Status-2026-W12.md",
     "Templates/Projekt-Liste.md",

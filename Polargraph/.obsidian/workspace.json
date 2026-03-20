@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -246,8 +246,9 @@
   },
   "active": "e191b9931df23538",
   "lastOpenFiles": [
+    "Templates/Projekt-Liste.md",
+    "Untitled.md",
     "2026-03-20 Daily.md",
-    "Templates/Untitled.md",
     "Templates/Tagesplan.md",
     "2026-03-20-Tagesplan.md",
     "Templates/Projekt-Ziel-Template.md",

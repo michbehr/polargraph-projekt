@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ablaufplan.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ablaufplan"
+              "title": "Test"
             }
           }
         ],
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ablaufplan.md",
+                "file": "Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ablaufplan"
+              "title": "Outline of Test"
             }
           }
         ],
@@ -244,10 +244,11 @@
   },
   "active": "2c39bff3ad565fa8",
   "lastOpenFiles": [
+    "Ablaufplan.md",
+    "Test.md",
     "Projekt-Ziel.md",
     "testeee.md",
     "test.md",
-    "Ablaufplan.md",
     "00-Projekt-Start.md",
     "2026-03-20 Daily.md",
     "Hardware.md",

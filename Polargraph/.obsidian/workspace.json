@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wochen-Status-2026-W12.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wochen-Status-2026-W12"
+              "title": "Untitled"
             }
           }
         ],
@@ -246,8 +246,10 @@
   },
   "active": "e191b9931df23538",
   "lastOpenFiles": [
-    "Templates/Projekt-Liste.md",
+    "Templates/Quick-Add.md",
+    "Untitled.md",
     "Wochen-Status-2026-W12.md",
+    "Templates/Projekt-Liste.md",
     "2026-03-20 Daily.md",
     "Templates/Tagesplan.md",
     "2026-03-20-Tagesplan.md",

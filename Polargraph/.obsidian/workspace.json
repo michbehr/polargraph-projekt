@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tagesplan.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tagesplan"
+              "title": "Untitled"
             }
           }
         ],
@@ -246,8 +246,9 @@
   },
   "active": "e191b9931df23538",
   "lastOpenFiles": [
-    "2026-03-20-Tagesplan.md",
     "Templates/Tagesplan.md",
+    "Untitled.md",
+    "2026-03-20-Tagesplan.md",
     "Templates/Projekt-Ziel-Template.md",
     "ZZ_Projekt-Ziel.md",
     "Templates",

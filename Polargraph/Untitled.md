@@ -11,7 +11,7 @@ tags:
 - [ ]
 
 ## ⏰ 08:00 - 09:00
-- [ ]# Tagesplan <% tp.date.now("YYYY-MM-DD") %>
+- [ ]# Tagesplan 2026-03-20
 
 ## ⏰ 06:00 - 07:00
 - [ ]

@@ -69,30 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "Projekt-Ziel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
-            }
-          },
-          {
-            "id": "c6c172a4a11b08ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testeee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "testeee"
+              "title": "Projekt-Ziel"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testeee.md",
+                "file": "Projekt-Ziel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testeee"
+              "title": "Outline of Projekt-Ziel"
             }
           }
         ],
@@ -256,10 +242,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c6c172a4a11b08ed",
+  "active": "2c39bff3ad565fa8",
   "lastOpenFiles": [
-    "test.md",
     "testeee.md",
+    "test.md",
     "Ablaufplan.md",
     "Projekt-Ziel.md",
     "00-Projekt-Start.md",
